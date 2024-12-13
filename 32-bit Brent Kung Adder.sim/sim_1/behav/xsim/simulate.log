@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Starting Brent-Kung Adder Testbench
+Test Passed: in1=00000000, in2=00000000, cin=0, out=00000000
+Test Passed: in1=00000001, in2=00000001, cin=0, out=00000002
+Test Passed: in1=ffffffff, in2=00000001, cin=0, out=00000000
+Test Passed: in1=12345678, in2=87654321, cin=0, out=99999999
+Test Passed: in1=aaaaaaaa, in2=55555555, cin=1, out=00000000
+Testbench Completed
+$stop called at time : 50 ns : File "C:/Users/surya/32-bit Brent Kung Adder/32-bit Brent Kung Adder.srcs/sim_1/new/brent_kung_adder_tb.v" Line 80
